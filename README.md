@@ -26,8 +26,8 @@ After completing this lab, write a few sentences about:
 - How do you plan to expand this portfolio?
 [Write your reflection here]
 
-
-When completing this assigenment, I struggled with increasing the font size, adding color, and small technichal errors. I wanted to have a seperate file for the header and the footer but I found out that it is not going to be possible with out Javascript. Throughout this assignment I have learned that to write Html from scratch and use Emmet as a Shortcut system which makes coding easier. I want to add CSS which makes the website more lively and interactive. I want to add animations and make the website look professional.
+## Answer
+- When completing this assigenment, I struggled with increasing the font size, adding color, and small technichal errors. I wanted to have a seperate file for the header and the footer but I found out that it is not going to be possible with out Javascript. Throughout this assignment I have learned that to write Html from scratch and use Emmet as a Shortcut system which makes coding easier. I want to add CSS which makes the website more lively and interactive. I want to add animations and make the website look professional.
 ---
 
 *This portfolio will grow throughout the semester as you add React components and full-stack projects!*
