@@ -27,7 +27,7 @@ After completing this lab, write a few sentences about:
 [Write your reflection here]
 
 ## Answer
-- When completing this assigenment, I struggled with increasing the font size, adding color, and fsmall technichal errors. I wanted to have a seperate file for the header and the footer but I found out that it is not going to be possible with out Javascript. Throughout this assignment, I have learned to write html from scratch and use Emmet as a Shortcut system which makes coding easier. For the future, I want to add CSS which makes the website more lively and interactive. I want to add animations,style it and make the website look professional.
+- When completing this assigenment, I struggled with increasing the font size, adding color, and fixing small technichal errors. I wanted to have a seperate file for the header and the footer but I found out that it is not going to be possible with out Javascripts. Throughout this assignment, I have learned to write html from scratch and use Emmet as a Shortcut system which makes coding easier. For the future, I want to add CSS which makes the website more lively and interactive. I want to add animations,style it and make the website look professional.
 ---
 
 *This portfolio will grow throughout the semester as you add React components and full-stack projects!*
